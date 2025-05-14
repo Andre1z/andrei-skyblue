@@ -1,0 +1,27 @@
+{
+  "titulo": "Educación",
+  "descripcion": "Descubre una amplia variedad de cursos y recursos educativos diseñados para potenciar tu aprendizaje y desarrollo personal.",
+  "cursos": [
+    {
+      "id": "curso-matematicas-basicas",
+      "nombre": "Matemáticas Básicas",
+      "descripcion": "Aprende los fundamentos de las matemáticas de forma clara y práctica.",
+      "imagen": "https://ejemplo.com/imagenes/matematicas-basicas.jpg",
+      "enlace": "cursos/matematicas-basicas.html"
+    },
+    {
+      "id": "curso-historia-universal",
+      "nombre": "Historia Universal",
+      "descripcion": "Explora los eventos históricos que moldearon nuestro mundo.",
+      "imagen": "https://ejemplo.com/imagenes/historia-universal.jpg",
+      "enlace": "cursos/historia-universal.html"
+    },
+    {
+      "id": "curso-ciencias-naturales",
+      "nombre": "Ciencias Naturales",
+      "descripcion": "Descubre los secretos del mundo natural a través de experimentos y teorías.",
+      "imagen": "https://ejemplo.com/imagenes/ciencias-naturales.jpg",
+      "enlace": "cursos/ciencias-naturales.html"
+    }
+  ]
+}
