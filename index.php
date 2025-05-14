@@ -10,7 +10,7 @@
 require_once __DIR__ . '/inc/motorplantilla.php';
 
 // Instanciar el motor de plantillas
-$templateEngine = new TemplateEngine();
+$engine = new MotorPlantilla();
 
 // Definir rutas para plantillas globales locales
 $headerTemplate = __DIR__ . '/templates/header.html';
