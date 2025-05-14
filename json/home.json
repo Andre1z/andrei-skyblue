@@ -1,0 +1,48 @@
+{
+  "titulo": "Bienvenido a Andrei Skyblue",
+  "subtitulo": "Innovación, creatividad y pasión en cada proyecto",
+  "descripcion": "En Andrei Skyblue combinamos tecnología y diseño para crear soluciones digitales que impactan. Explora nuestros servicios, descubre nuestras iniciativas y deja que nuestra experiencia transforme tus ideas en realidad.",
+  "slider": [
+    {
+      "imagen": "https://example.com/imagenes/slider1.jpg",
+      "titulo": "Innovación",
+      "descripcion": "Descubre cómo utilizamos las últimas tecnologías para impulsar proyectos disruptivos."
+    },
+    {
+      "imagen": "https://example.com/imagenes/slider2.jpg",
+      "titulo": "Creatividad",
+      "descripcion": "Cada diseño, cada línea de código, nace de una idea única y apasionada."
+    },
+    {
+      "imagen": "https://example.com/imagenes/slider3.jpg",
+      "titulo": "Pasión",
+      "descripcion": "El compromiso y la pasión que ponemos en cada proyecto son la clave de nuestro éxito."
+    }
+  ],
+  "destacados": [
+    {
+      "titulo": "Desarrollos Web",
+      "descripcion": "Webs a medida que combinan funcionalidad y diseño atractivo.",
+      "imagen": "https://example.com/imagenes/desarrollo-web.jpg"
+    },
+    {
+      "titulo": "Marketing Digital",
+      "descripcion": "Estrategias digitales para potenciar tu presencia online.",
+      "imagen": "https://example.com/imagenes/marketing-digital.jpg"
+    },
+    {
+      "titulo": "Diseño Gráfico",
+      "descripcion": "Imagen corporativa y creatividad que hacen destacar tu marca.",
+      "imagen": "https://example.com/imagenes/diseno-grafico.jpg"
+    }
+  ],
+  "llamada_accion": {
+    "texto": "Descubre más sobre nosotros",
+    "enlace": "paginas/quienessomos.json"
+  },
+  "footer_info": {
+    "contacto": "contacto@andreiskyblue.com",
+    "telefono": "+34 123 456 789",
+    "direccion": "Avenida de la Innovación, 100, Valencia, España"
+  }
+}
