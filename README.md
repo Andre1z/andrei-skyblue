@@ -10,7 +10,7 @@ Project Structure:
 ```
 C:\xampp\htdocs\andrei-skyblue
 ├── .gitattributes              # Git configurations.
-├── readme.txt                  # Project documentation.
+├── readme.md                  # Project documentation.
 ├── inc
 │   └── motorplantilla.php      # Custom template engine for dynamic view rendering.
 ├── index.php                   # Main entry point; handles routing and rendering.
