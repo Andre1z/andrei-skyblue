@@ -1,0 +1,23 @@
+{
+  "titulo": "Quiénes Somos",
+  "descripcion": "Somos una empresa dedicada a la innovación digital y al desarrollo de soluciones tecnológicas de vanguardia. Nuestro equipo trabaja con pasión y compromiso para transformar ideas en realidades impactantes.",
+  "mision": "Proveer soluciones tecnológicas integrales que impulsen el crecimiento de las empresas y mejoren la calidad de vida de las personas.",
+  "vision": "Ser líderes en innovación tecnológica a nivel global, reconocidos por nuestra excelencia y compromiso con el éxito de nuestros clientes.",
+  "equipo": [
+    {
+      "imagen": "https://example.com/images/juan.jpg",
+      "nombre": "Juan Pérez",
+      "cargo": "CEO & Fundador"
+    },
+    {
+      "imagen": "https://example.com/images/marta.jpg",
+      "nombre": "Marta Rodríguez",
+      "cargo": "Directora de Tecnología"
+    },
+    {
+      "imagen": "https://example.com/images/luis.jpg",
+      "nombre": "Luis García",
+      "cargo": "Gerente de Proyectos"
+    }
+  ]
+}
